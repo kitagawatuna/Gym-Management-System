@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "name": "Ph\u1ea1m Ho\u00e0ng Long",
+        "birth_year": 1998,
+        "gender": "Nam",
+        "phone": "0987654321",
+        "email": "longpham@email.com",
+        "address": "\u0110\u00e0 N\u1eb5ng",
+        "experience": "2",
+        "workplace": "California Fitness",
+        "current_member": "Tr\u01b0\u01a1ng Nh\u1ea5t Linh",
+        "status": "active"
+    },
+    {
+        "name": "L\u00ea Minh Th\u01b0",
+        "birth_year": "2001",
+        "gender": "N\u1eef",
+        "phone": "0905123456",
+        "email": "thuleminh@email.com",
+        "address": "H\u00e0 N\u1ed9i",
+        "experience": "M\u1edbi v\u00e0o",
+        "workplace": "GymCenter Elite",
+        "current_member": "Ph\u1ea1m Nguy\u00ean Kh\u00e1nh"
+    },
+    {
+        "trainer_id": "T003",
+        "name": "Nguy\u1ec5n V\u0103n An",
+        "birth_year": "1995",
+        "gender": "Nam",
+        "phone": "0912345678",
+        "email": "annguyen123@gmail.com",
+        "address": "C\u1ea7n Th\u01a1",
+        "experience": "2 n\u0103m",
+        "workplace": "Fitness Plus Center",
+        "current_member": "Ph\u1ea1m Thanh Tu\u1ea5n",
+        "status": "active"
+    }
+]
