@@ -1,0 +1,40 @@
+{
+    "I.M\u00e1y Cardio": [
+        {
+            "name": "M\u00e1y ch\u1ea1y b\u1ed9 \u0111i\u1ec7n",
+            "quantity": 3
+        },
+        {
+            "name": "Xe \u0111\u1ea1p t\u1eadp",
+            "quantity": 2
+        }
+    ],
+    "II.M\u00e1y t\u1eadp s\u1ee9c m\u1ea1nh": [
+        {
+            "name": "M\u00e1y \u00e9p ng\u1ef1c",
+            "quantity": 2
+        },
+        {
+            "name": "M\u00e1y \u0111\u1ea1p ch\u00e2n",
+            "quantity": 2
+        },
+        {
+            "name": "M\u00e1y t\u1eadp b\u1ee5ng",
+            "quantity": 2
+        }
+    ],
+    "III.T\u1ea1 t\u1ef1 do & Khu v\u1ef1c ch\u1ee9c n\u0103ng": [
+        {
+            "name": "B\u1ed9 t\u1ea1 tay",
+            "quantity": 3
+        },
+        {
+            "name": "Gh\u1ebf t\u1eadp t\u1ea1 \u0111a n\u0103ng",
+            "quantity": 2
+        },
+        {
+            "name": "Khung g\u00e1nh t\u1ea1",
+            "quantity": 2
+        }
+    ]
+}
